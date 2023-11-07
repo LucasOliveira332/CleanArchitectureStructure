@@ -1,4 +1,4 @@
-namespace CleanArchitecture.Tests
+namespace CleanArchitecture.UnitTest
 {
     public class UnitTest1
     {
